@@ -1,3 +1,10 @@
+App that finds song lyrics using React js and the Musixmatch API.
+
+Based in this:
+https://github.com/bradtraversy/lyricfinder
+
+Tutorial: https://www.youtube.com/playlist?list=PLillGF-RfqbaxgxkKgKk1XlJAVCX31xRI
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
